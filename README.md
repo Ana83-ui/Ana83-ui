@@ -9,10 +9,9 @@
 - 🔧 **My technology tools**: JavaScript, React, Node.js and MongoDB, although I am always ready to add more skills to my "toolbox".
 
 ## 🔥 My skills
-- **Frontend**: HTML, CSS, JavaScript, React, Redux
-- **Backend**: Node.js, Express, MongoDB
-- **Version control**: Git, GitHub
-- **Other**: APIs, REST
+- **Frontend**: HTML, CSS, JavaScript, React, Redux, Typescript
+- **Backend**: Node.js, Express, MongoDB, MySQL, JWT
+- **CI/CD Tools**: Git, GitHub, Docker, DockerHub, NPM, Trello, Scrum
 
 ## 📂 Projects? Of course!
 You can see all my projects on my GitHub profile. Explore them, take a look and don’t hesitate to leave me a comment. ¡ I love receiving feedback! ✨
